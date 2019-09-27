@@ -1,6 +1,6 @@
 <?php
 
-$a =array(1,2,3,4,5,6);
+$a =array(1,2,3,4,5,6,7);
 function sum($n){
 	$sumation = 0;
 	foreach($n as $i){
