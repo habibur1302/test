@@ -8,7 +8,7 @@ function sum($n){
 	}
 	return $sumation;
 }
-$result = sum($a);
-print_r($result);
+$result2 = sum($a);
+print_r($result2);
 
 ?>
